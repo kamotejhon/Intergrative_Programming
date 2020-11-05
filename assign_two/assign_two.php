@@ -74,7 +74,7 @@
         echo "Your Username is: ".$_GET["username"];
         echo "<br>"; 
         echo "Your Email is: ".$_GET["email"];
-        echo "<br>"; 
+        echo "<br>";    
         echo "Your Added Friend is: ".$_GET["Aname"];
         echo "<br>"; 
         echo "Your Added status is: ".$_GET["status"];        
