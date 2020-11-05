@@ -4,7 +4,7 @@
 </head>
 <body>
     <h1>User Class </h1>
-    <form action = "nothing.php" method = "get" > 
+    <form action = "assign_two.php" method = "get" > 
             <input type="text" placeholder="Name" name="name" ><br>
             <input type="text" placeholder="Username" name="username" ><br>
             <input type="text" placeholder="Emai" name="email" ><br>
