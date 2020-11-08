@@ -52,7 +52,6 @@
             return $this ->status;
         }
         
-
     }
     
     if (isset($_GET["try"]))
@@ -78,9 +77,7 @@
         echo "Your Added Friend is: ".$_GET["Aname"];
         echo "<br>"; 
         echo "Your Added status is: ".$_GET["status"];        
-    }
-    
-    
+    }  
 ?>
 
 
